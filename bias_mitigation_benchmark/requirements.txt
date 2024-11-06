@@ -1,0 +1,10 @@
+matplotlib 
+numpy 
+pandas 
+tqdm 
+jax 
+jaxopt 
+optax 
+flax 
+cvxpy 
+jinja2
